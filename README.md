@@ -1,17 +1,14 @@
 <h2 align="left">Hi 👋! Prazer em te conhecer</h2>
 
-###
-
-<div align="center">
-  public class AboutMe
- {
- 	public const string Name = "Luiz Fellipe Mendes de Oliveira";
-	public const string From = "Goiás/Br";
- }
-
-</div>
-
-###
+<h4>
+	Luiz Fellipe Mendes de Oliveira
+</h4>
+<h4>
+	Goiás/BR
+</h4>
+<h4>
+	Engenheiro de Software
+</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
